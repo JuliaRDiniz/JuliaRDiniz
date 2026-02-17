@@ -35,4 +35,4 @@ Tenho experiência em projetos full stack e interesse em aprofundar conhecimento
 
 ## Links
 Portfolio: https://www.juliadiniz.dev  
-LinkedIn: [(https://www.linkedin.com/in/juliadinizdev)](https://www.linkedin.com/in/juliadinizdev)
+LinkedIn: [https://www.linkedin.com/in/juliadinizdev](https://www.linkedin.com/in/juliadinizdev)
